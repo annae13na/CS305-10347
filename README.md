@@ -9,7 +9,7 @@ Artemis Financial is a financial services company that develops custom software 
 
 
 ## 2. What I Did Well
-I effectively implemented secure communication using HTTPS with a self-signed SSL certificate, deployed a SHA-256 hashing function for data integrity, and selected AES as the preferred cipher for encryption. I also conducted a successful **OWASP Dependency-Check** to confirm that no critical vulnerabilities existed after refactoring.  
+I effectively implemented secure communication using HTTPS with a self-signed SSL certificate, deployed a SHA-256 hashing function for data integrity, and selected AES as the preferred cipher for encryption. I also conducted a successful OWASP Dependency-Check to confirm that no critical vulnerabilities existed after refactoring.  
 
 Secure coding practices like encryption, hashing, and dependency scanning are vital for maintaining trust and preventing breaches. They protect financial data and ensure the company meets industry security and compliance standards.
 
